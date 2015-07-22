@@ -3,12 +3,6 @@ class Cell
   total = 0
   percentage = 0.125
 
-  # For anything over 300
-  # 29.99 + 0.45 for each additional minute
-  # multiple this new total by 0.125.
-
-
-
   puts "How many minutes have you used?"
   minutes = gets.to_i
 
@@ -22,4 +16,12 @@ class Cell
   end
 end
 
+
+
+# Second part:
+
+  # For anything over 300,
+  # do 29.99 + 0.45 for each additional minute.
+  # Then multiply this new total by 0.125.
+  # Return new total.
 

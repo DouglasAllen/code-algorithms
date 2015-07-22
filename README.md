@@ -2,7 +2,7 @@
 
 This is just random practice for solving problems.
 Try to code yourself before checking my answer.
-Also share what your solution was! It's amazing what diffent ways there are to
+Also share what your solution was! It's amazing what different ways there are to
 solve a simple problem.
 
 ##Author

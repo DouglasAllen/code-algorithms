@@ -17,6 +17,17 @@ Year 2 = 10,500 x 1.05 = 11,025
 
 Year 3 = 11,025 x 1.05 = 11,576.25
 
+##College
+
+A bank account starts with $10,000. Interest is compounded at 6% per year or
+0.5% monthly. Every month, $500 is withdrawn for college expenses. After how many years is the account
+depleted?
+
+##Balance
+
+Write a program that prints the balance of an account after the 1st, 2nd and 3rd year.
+The account has an initial balance of $1000 and earns a percent interest of 5% yearly.
+
 ##Cell
 
 Suppose your cell phone carrier charges you $29.95 for up to 300 minutes of calls,

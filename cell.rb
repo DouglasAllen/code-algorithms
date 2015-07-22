@@ -12,7 +12,9 @@ class Cell
    puts "Your bill this month is $" + total.round(2).to_s + "."
 
   elsif minutes > 300
-    puts "I'm still figuring out your bill. Please wait a while... "
+   usage = minutes - 300
+   total = usage * 0.45 + 29.99 * 0.125 + 29.99  #get explanation
+   puts "Your bill this month is $" + total.round(2).to_s + "."
   end
 end
 
@@ -25,3 +27,8 @@ end
   # Then multiply this new total by 0.125.
   # Return new total.
 
+
+#Extra
+
+#Bug in Code. If user enters letters or nothing at all,
+#it defaults to <= 300 value. Stop this from happening.

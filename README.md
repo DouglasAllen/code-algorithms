@@ -34,7 +34,7 @@ Year 3 = 11,025 x 1.05 = 11,576.25
 Suppose your cell phone carrier charges you $29.95 for up to 300 minutes of calls,
 and $0.45 for each additional minute, plus 12.5% taxes and fees. Give an algorithm
 to compute the monthly charge from a given number of minutes.
-(Half done)
+(Done)
 
 ##College
 
